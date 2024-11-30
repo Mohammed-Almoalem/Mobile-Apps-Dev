@@ -18,12 +18,15 @@ Welcome to the **Todo App**, the ultimate task management solution designed with
 Here’s a sneak peek of the beautiful UI:
 
 <img src="media/home_screen.jpg" style="height:380px; width:auto; object-fit:cover;">
+
 *Home Screen - Your task overview!*
 
 <img src="media/add_task_screen.jpg" style="height:380px; width:auto; object-fit:cover;">
+
 *Add Task - Easily create new tasks!*
 
 <img src="media/completed_tasks.jpg" style="height:380px; width:auto; object-fit:cover;">
+
 *Completed Tasks - Celebrate your achievements! 🎉*
 
 ## 🛠️ Tech Stack
