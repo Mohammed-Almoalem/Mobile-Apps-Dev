@@ -43,7 +43,42 @@ Want to get this app running on your own device? Just follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   https://github.com/Mohammed-Almoalem/Mobile-Apps-Dev.git
+2. Open the Project in Android Studio. 📖
+3. Build and Run the app on your device or emulator. 💻
+4. Start Managing Your Tasks! 🎉
+
+## 🌟 Usage
+
+Using the Todo App is a breeze! Here’s how to get started:
+
+1. Add a New Task ➕: Click the "+" button to create a new task.
+2. Mark Tasks as Completed ✅: Tap the checkmark when you finish a task to move it to the completed section.
+3. View Completed Tasks 📋: Keep track of what you’ve accomplished and celebrate your productivity!
+
+## 🤝 Contributing
+
+We love contributions! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Together, we can make this app even more epic! 🌈
+
+## 📄 License
+
+This project is licensed under the private use only License. See the LICENSE file for details.
+
+## 🙏 Acknowledgements
+
+1. All mighty god 
+2. Our parents
+3. Pofs. and Teachers in our university
+4. Ourselves 😉
+5. Huge thanks to the Jetpack Compose team for creating such an amazing toolkit! ❤️
+6. Inspired by the need for better task management in daily life.
+
+## 📬 Contact
+
+1. Email: m_macalim@hotmail.com
+
+Thank you for checking out the Todo App! We hope it helps you conquer your tasks and achieve your goals. Happy organizing! 🎉✨
+
 
 ## License
 
