@@ -42,11 +42,13 @@ This app is built using:
 Want to get this app running on your own device? Just follow these simple steps:
 
 1. **Clone the Repository**:
+
    ```bash
    https://github.com/Mohammed-Almoalem/Mobile-Apps-Dev.git
-2. Open the Project in Android Studio. 📖
-3. Build and Run the app on your device or emulator. 💻
-4. Start Managing Your Tasks! 🎉
+   
+3. Open the Project in Android Studio. 📖
+4. Build and Run the app on your device or emulator. 💻
+5. Start Managing Your Tasks! 🎉
 
 ## 🌟 Usage
 
