@@ -17,7 +17,7 @@ Welcome to the **Todo App**, the ultimate task management solution designed with
 
 Here’s a sneak peek of the beautiful UI:
 
-<img src="media/home_screen.jpg" align="center" style="height:250px; width:auto; object-fit:cover;">
+<img src="media/home_screen.jpg" style="height:380px; width:auto; object-fit:cover;">
 *Home Screen - Your task overview!*
 
 ![Add Task Screen](media/add_task_screen.jpg)
